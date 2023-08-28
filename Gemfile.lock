@@ -13,7 +13,7 @@ GEM
     execjs (2.8.1)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
-    google-protobuf (3.24.1-x64-mingw-ucrt)
+    google-protobuf (3.24.2-x64-mingw-ucrt)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
